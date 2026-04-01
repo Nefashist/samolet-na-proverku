@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity1\\Plane_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|d:\\unity1\\plane_practice\\assets\\scripts\\planehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|D:\\Unity1\\Plane_Practice\\assets\\scripts\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|D:\\Unity1\\Plane_Practice\\assets\\scripts\\tailaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tailaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|D:\\Unity1\\Plane_Practice\\assets\\scripts\\wingaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wingaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|D:\\Unity1\\Plane_Practice\\assets\\scripts\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAECCCD-B62E-7B2B-CAC4-72DB7D1DF3AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaneHUD.cs",
+              "DocumentMoniker": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\PlaneHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaneHUD.cs",
+              "ToolTip": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\PlaneHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaneHUD.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:23:48.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WingAerodynamics.cs",
+              "DocumentMoniker": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\WingAerodynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WingAerodynamics.cs",
+              "ToolTip": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\WingAerodynamics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WingAerodynamics.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:15:25.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaneController.cs",
+              "DocumentMoniker": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\PlaneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaneController.cs",
+              "ToolTip": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\PlaneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaneController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:28:06.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\Engine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Engine.cs",
+              "ToolTip": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\Engine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Engine.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:11:25.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TailAerodynamics.cs",
+              "DocumentMoniker": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\TailAerodynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TailAerodynamics.cs",
+              "ToolTip": "D:\\Unity1\\Plane_Practice\\Assets\\Scripts\\TailAerodynamics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TailAerodynamics.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:09:39.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

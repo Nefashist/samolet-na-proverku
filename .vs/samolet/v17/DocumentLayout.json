@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRepos\\samolet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|D:\\GitRepos\\samolet\\assets\\scripts\\wingaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wingaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|d:\\gitrepos\\samolet\\assets\\scripts\\tailaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tailaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|D:\\GitRepos\\samolet\\assets\\scripts\\simpleplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simpleplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|D:\\GitRepos\\samolet\\assets\\scripts\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|D:\\GitRepos\\samolet\\assets\\aircraftscripts\\aircraftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\aircraftscripts\\aircraftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|D:\\GitRepos\\samolet\\assets\\scripts\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|D:\\GitRepos\\samolet\\assets\\scripts\\simplehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|D:\\GitRepos\\samolet\\assets\\scripts\\planehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|d:\\gitrepos\\samolet\\assets\\aircraftscripts\\aircrafthud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D2C6B-EEF7-7249-0B44-BA9F44562DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\aircraftscripts\\aircrafthud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AircraftHUD.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\AircraftScripts\\AircraftHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\AircraftScripts\\AircraftHUD.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\AircraftScripts\\AircraftHUD.cs",
+              "RelativeToolTip": "Assets\\AircraftScripts\\AircraftHUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:48:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AircraftController.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\AircraftScripts\\AircraftController.cs",
+              "RelativeDocumentMoniker": "Assets\\AircraftScripts\\AircraftController.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\AircraftScripts\\AircraftController.cs",
+              "RelativeToolTip": "Assets\\AircraftScripts\\AircraftController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowLcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:47:04.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WingAerodynamics.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\Scripts\\WingAerodynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WingAerodynamics.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\Scripts\\WingAerodynamics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WingAerodynamics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:17:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TailAerodynamics.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\Scripts\\TailAerodynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TailAerodynamics.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\Scripts\\TailAerodynamics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TailAerodynamics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:16:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaneHUD.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\Scripts\\PlaneHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaneHUD.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\Scripts\\PlaneHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaneHUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:12:54.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleHUD.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\Scripts\\SimpleHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleHUD.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\Scripts\\SimpleHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleHUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:37:13.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimplePlaneController.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\Scripts\\SimplePlaneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimplePlaneController.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\Scripts\\SimplePlaneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimplePlaneController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:37:46.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\Scripts\\Engine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Engine.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\Scripts\\Engine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:16:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaneController.cs",
+              "DocumentMoniker": "D:\\GitRepos\\samolet\\Assets\\Scripts\\PlaneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaneController.cs",
+              "ToolTip": "D:\\GitRepos\\samolet\\Assets\\Scripts\\PlaneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaneController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:15:53.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
